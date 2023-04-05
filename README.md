@@ -1,2 +1,2 @@
 # Python-Binary-Battle
-Player competes with robot Jarvis, choosing "0" or "1". Robot's choice based on player's past selections. Game ends at 10 points. Final message shows winner, buttons disabled. Scores shown with progress bar, message with HTML.
+It's a simple game where a player competes against a robot named Jarvis. They choose between "0" and "1". The robot's choice is based on the player's past selections. The game ends when a player reaches a score of 10. The final message shows if the player won or lost, and the buttons are disabled. The scores are displayed using a progress bar and the message is displayed using HTML.
